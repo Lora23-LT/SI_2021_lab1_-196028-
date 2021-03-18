@@ -1,0 +1,5 @@
+zbor 1
+zbor 2
+zbor 3
+zbor 4
+zbor 5
